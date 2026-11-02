@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [ { "Name": "splicer scorn (voidrane)" } ],
+        "Category": "",
+        "Description": "Redacted: monochrome black, accents a breath lighter than black. A censored face under static on the desktop, splash, lock and login; windows arrive as mosaic under censor bars.",
+        "Id": "scorn.redacted",
+        "License": "GPL-3.0-or-later",
+        "Name": "Redacted",
+        "Version": "1.0"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Splash;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "defaults"
+}
